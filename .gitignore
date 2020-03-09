@@ -1,6 +1,7 @@
 Library/
 Temp/
-.vs/
 obj/
+.vs/
+.git/
 *.csproj
 *.sln
